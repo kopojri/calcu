@@ -1,2 +1,0 @@
-# calcu
-Created with CodeSandbox
